@@ -1,0 +1,30 @@
+{
+    "name": "@jessejjohnson/tsconfig",
+    "version": "1.0.0",
+    "description": "Shared TypeScript configuration",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jessejjohnson/tsconfig.git"
+    },
+    "author": {
+      "name": "Jesse Johnson",
+      "email": "johnson.jesse@live.com",
+      "url": "https://jessejjohnson.com"
+    },
+    "main": "tsconfig.json",
+    "sideEffects": false,
+    "engines": {
+      "node": ">=18.0.0"
+    },
+    "files": [
+      "tsconfig.json"
+    ],
+    "keywords": [
+      "tsconfig",
+      "typescript",
+      "ts",
+      "config",
+      "configuration"
+    ]
+  }
